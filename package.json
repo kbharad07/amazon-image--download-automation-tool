@@ -1,0 +1,19 @@
+{
+  "name": "my-first-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "exiftool-vendored": "^35.10.1",
+    "express": "^5.2.1",
+    "multer": "^2.0.2",
+    "playwright": "^1.58.2"
+  }
+}
